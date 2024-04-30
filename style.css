@@ -1,0 +1,21 @@
+/* Add styles for priority levels and due dates (optional) */
+.high {
+    color: red;
+  }
+  
+  .medium {
+    color: orange;
+  }
+  
+  .low {
+    color: green;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
+  #due-date {
+    padding: 5px;
+  }
+  
